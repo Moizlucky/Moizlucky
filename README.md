@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Moizlucky/Moizlucky/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm MUHAMMAD MOIZ</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
