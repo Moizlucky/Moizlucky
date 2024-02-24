@@ -15,7 +15,7 @@
 <a href="https://pk.linkedin.com/in/muhammad-moiz-440ab6283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad moiz" height="30" width="40" /></a>
 <a href="https://fb.com/moizlucky11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moizlucky11" height="30" width="40" /></a>
 <a href="https://instagram.com/moiz_lucky1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moiz_lucky1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/emotionsofyours" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emotionsofyours" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAx_RC2Im_etaFM_izniKjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emotionsofyours" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
